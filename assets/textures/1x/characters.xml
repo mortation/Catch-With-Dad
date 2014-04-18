@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:86c6d90f21044465afebdca5397a5a94:fb7da4ce3dfa924a9f19106984c925c0:fd4a04ca3ae6018f572695223097d7b1$ -->
+<TextureAtlas imagePath="characters.png">
+    <SubTexture name="NPC" x="2" y="89" width="164" height="85"/>
+    <SubTexture name="Player" x="2" y="2" width="164" height="85"/>
+</TextureAtlas>
